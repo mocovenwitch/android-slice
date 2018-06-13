@@ -22,3 +22,12 @@ And then install in your device
 ### run command line
 
         $adb shell am start -a android.intent.action.VIEW -d slice-content://com.mocoven.slice/slice
+
+
+## What's Next
+
+### Showing Slice in Google Search
+
+I have not made it successful yet. [Refer](https://www.youtube.com/watch?v=a7IVH5aNwwc)
+
+Notes: `androidx.slice:slice-core:1.0.0-alpha1` and `androidx.slice:slice-core:1.0.0-alpha3` are so different.
